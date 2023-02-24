@@ -11,4 +11,5 @@ Student Info
 
 * Student Name: Đoàn Hoài Nhi 
 * Student ID: BI12-338
+* Class: DS
 
