@@ -1,5 +1,3 @@
-import numpy as np
-import pandas as pd
 
 #function to enter students information
 def input_Student_info():
